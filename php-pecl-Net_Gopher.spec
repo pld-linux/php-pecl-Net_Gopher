@@ -1,15 +1,16 @@
 %define		_modname	Net_Gopher
 %define		_smodname	gopher
-%define		_status		beta
+%define		_status		stable
+
 Summary:	%{_modname} - fopen wrapper for the gopher protocol
 Summary(pl):	%{_modname} - wrapper fopen dla protoko³u gopher
 Name:		php-pecl-%{_modname}
-Version:	0.1
+Version:	1.0.0
 Release:	1
 License:	PHP
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
-# Source0-md5:	2bf3c726585b8eb754b4c43fef7c6079
+# Source0-md5:	85435fc2d8f067558acc81c33a453d83
 URL:		http://pecl.php.net/package/Net_Gopher/
 BuildRequires:	libtool
 BuildRequires:	php-devel
