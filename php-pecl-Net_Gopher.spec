@@ -24,14 +24,14 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 fopen wrapper for retrieving documents via gopher protocol. Includes
 additional function for parsing gopher directory entries.
 
-This extension has in PEAR status: %{_status}.
+In PECL status of this package is: %{_status}.
 
 %description -l pl
 Wrapper wokó³ funkcji fopen pozwalaj±cy na pobieranie dokumentów za
 pomoc± protoko³u gopher. Zawiera dodatkow± funkcjê s³u¿±c± parsowaniu
 pozycji katalogu.
 
-To rozszerzenie ma w PEAR status: %{_status}.
+To rozszerzenie ma w PECL status: %{_status}.
 
 %prep
 %setup -q -c
