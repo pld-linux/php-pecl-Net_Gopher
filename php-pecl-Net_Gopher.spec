@@ -8,9 +8,9 @@ Version:	0.1
 Release:	1
 License:	PHP
 Group:		Development/Languages/PHP
-Source0:	http://pear.php.net/get/%{_modname}-%{version}.tgz
+Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
 # Source0-md5:	2bf3c726585b8eb754b4c43fef7c6079
-URL:		http://pear.php.net/package/Net_Gopher/
+URL:		http://pecl.php.net/package/Net_Gopher/
 BuildRequires:	libtool
 BuildRequires:	php-devel
 Requires:	php-common
