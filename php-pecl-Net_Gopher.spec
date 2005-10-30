@@ -7,7 +7,7 @@ Summary:	%{_modname} - fopen wrapper for the gopher protocol
 Summary(pl):	%{_modname} - wrapper fopen dla protoko³u gopher
 Name:		php-pecl-%{_modname}
 Version:	1.0.0
-Release:	3
+Release:	4
 License:	PHP
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
