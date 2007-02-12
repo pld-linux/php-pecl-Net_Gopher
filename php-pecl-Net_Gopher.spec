@@ -2,7 +2,7 @@
 %define		_smodname	gopher
 %define		_status		stable
 Summary:	%{_modname} - fopen wrapper for the gopher protocol
-Summary(pl.UTF-8):   %{_modname} - wrapper fopen dla protokołu gopher
+Summary(pl.UTF-8):	%{_modname} - wrapper fopen dla protokołu gopher
 Name:		php-pecl-%{_modname}
 Version:	1.0.0
 Release:	6
