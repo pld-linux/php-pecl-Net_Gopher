@@ -2,7 +2,7 @@
 %define		_smodname	gopher
 %define		_status		stable
 Summary:	%{_modname} - fopen wrapper for the gopher protocol
-Summary(pl):	%{_modname} - wrapper fopen dla protoko³u gopher
+Summary(pl.UTF-8):   %{_modname} - wrapper fopen dla protokoÅ‚u gopher
 Name:		php-pecl-%{_modname}
 Version:	1.0.0
 Release:	6
@@ -24,9 +24,9 @@ additional function for parsing gopher directory entries.
 
 In PECL status of this package is: %{_status}.
 
-%description -l pl
-Wrapper wokó³ funkcji fopen pozwalaj±cy na pobieranie dokumentów za
-pomoc± protoko³u gopher. Zawiera dodatkow± funkcjê s³u¿±c± parsowaniu
+%description -l pl.UTF-8
+Wrapper wokÃ³Å‚ funkcji fopen pozwalajÄ…cy na pobieranie dokumentÃ³w za
+pomocÄ… protokoÅ‚u gopher. Zawiera dodatkowÄ… funkcjÄ™ sÅ‚uÅ¼Ä…cÄ… parsowaniu
 pozycji katalogu.
 
 To rozszerzenie ma w PECL status: %{_status}.
